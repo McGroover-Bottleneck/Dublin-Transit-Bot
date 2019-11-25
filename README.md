@@ -1,10 +1,8 @@
-# Node-Express-TS-Template
-
-Finally, a template for a TS project with barely any copy paste!
+# Dublin Transit Bot
 
 ### About
 
-I created this Template so that I can get up and running with a node project that already has the eslint/prettier/tslint auto-formatting stuff setup right from the start rather then having to copy/paste config files from other projects.
+Server code for Dublin Transit Bot --> https://m.me/DublinTransitBot
 
 ## Setup
 

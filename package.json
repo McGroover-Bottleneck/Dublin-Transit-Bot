@@ -1,14 +1,14 @@
 {
-  "name": "Node-Express-TS-Template",
+  "name": "dublintransitbot",
   "version": "1.0.0",
-  "description": "Template used to quickly setup a node/express/typescript project with all auto-formatting stuff you would need",
+  "description": "Dublin Transit Bot server code",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
     "watch": "tsc -w",
     "start": "tsc && node dist/index.js"
   },
-  "repository": "https://github.com/McGroover-Bottleneck/Node-Express-TS-Template",
+  "repository": "https://github.com/McGroover-Bottleneck/Dublin-Transit-Bot",
   "author": "Alex McGonagle",
   "license": "MIT",
   "devDependencies": {

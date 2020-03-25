@@ -7,7 +7,7 @@ Server code for Dublin Transit Bot --> https://m.me/DublinTransitBot
 ## Setup
 
 1. `yarn install`
-2. Add your own .env file so that `process.env.PORT` works
+2. Add your own .env
 3. `yarn start`
 4. Boom
 

@@ -44,6 +44,8 @@ const logAnyData = (mClient: MongoClient, collectionName: string, data: any) => 
         .insertOne(data);
 };
 
+app.get('/', (req, res) => res.send('Up'));
+
 app.get('/hello', (req, res) => res.sendStatus(200));
 
 app.post('/dublinTransitBot', async (req, res) => {
